@@ -9,13 +9,13 @@ Players take turns revealing their secret roles, clearing the screen between eac
 
 This project is a **terminal-based Persian Mafia (Werewolf-style)** game. It supports customizable player and mafia counts and assigns roles like:
 
-- 🕵️‍♂️ **Karagah (Detective)**
+- 🕵️‍♂️ **Karagah**
 - 💉 **Doctor**
 - 🔫 **Sniper**
-- 🦺 **ZerehPosh (Armored)**
+- 🦺 **ZerehPosh**
 - 😈 **GodFather**
-- 😎 **Mafia Sade (Regular Mafia)**
-- 🧍‍♂️ **Shahrvand Sade (Civilian)**
+- 😎 **Mafia Sade**
+- 🧍‍♂️ **Shahrvand Sade**
 
 Each player privately views their role before the screen is cleared for the next player, keeping everything secret — just like the real-life Mafia experience.
 
